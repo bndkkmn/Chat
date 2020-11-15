@@ -1,0 +1,18 @@
+.LogInWindow{
+    margin: 300px auto;
+    width: 30%;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+h3{
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 1px;
+    padding: 5px;
+}
+
+.center{
+    text-align: center;
+}
